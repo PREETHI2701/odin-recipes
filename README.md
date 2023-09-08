@@ -1,4 +1,3 @@
-# odin-recipes
 
 # git push origin main
 new file:   images/recipes.jpeg
