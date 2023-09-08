@@ -5,16 +5,16 @@
 
 body{
     margin:0;
-    font-family: 'Times New Roman';
+    font-family: 'Times New Roman;
     background: #f5f6f7;
-    background-image: url('./images/recipes.jpeg');
+    background-image: url('recipes.jpeg');
     background-repeat: no-repeat ;
     background-size: cover;
     
 }
 
 .header{
-    text-align:center;
+    text-align: center;
     text-transform: uppercase;
     padding: 32px;
     background-color: #0a0a23;
